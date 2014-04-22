@@ -1,0 +1,9 @@
+{
+  "name": "stormpath-node-test",
+  "description": "A tester project for Stormpath",
+  "repository": "https://github.com/omgitstom/stormpath-node-test",
+  "dependencies": {
+    "stormpath": "~0.1.2"
+  }
+}
+
